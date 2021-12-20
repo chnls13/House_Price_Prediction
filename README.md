@@ -3,7 +3,7 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 
 # Data Description
 
-SalePrice - the property's sale price in dollars. This is the target variable that we're trying to predict.
+SalePrice - the property's sale price in dollars. This is the target variable that we're trying to predict
 
 MSSubClass: The building class
 
