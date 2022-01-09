@@ -5,7 +5,7 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 
 SalePrice - the property's sale price in dollars. This is the target variable that we're trying to predict
 
-MSSubClass: The building class
+MSSubClass: The building clas
 
 MSZoning: The general zoning classification
 
