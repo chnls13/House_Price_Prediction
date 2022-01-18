@@ -1,5 +1,5 @@
 # House Price Prediction
-With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, we will predict the final price of each home. Dataset contains 37 numeric and 43 categorical variables. In this project, we will use different regression techniques such as lasso and ridge to predict the price of the housesç
+With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, we will predict the final price of each home. Dataset contains 37 numeric and 43 categorical variables. In this project, we will use different regression techniques such as lasso and ridge to predict the price of the houses.
 
 # Data Description
 
